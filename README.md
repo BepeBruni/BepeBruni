@@ -47,8 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 
-</br>
-
 ## 📈 Contribution
 
 <div align="center">
