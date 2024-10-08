@@ -17,11 +17,11 @@
 
 ## 💻 Languages and Tools 
 
+</br>
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BepittoMaquiavel&theme=radical&count_private=false&layout=donut&hide_title=true&" alt="GitHub Stats" align="left">
 </div>
-
-</br>
 
 </br>
 
