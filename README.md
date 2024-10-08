@@ -17,6 +17,8 @@
 
 ## 💻 Languages and Tools 
 
+</br>
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BepittoMaquiavel&theme=radical&count_private=false&layout=donut&hide_title=true&" alt="GitHub Stats" align="left">
 </div>
@@ -46,6 +48,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
+
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ## 📈 Contribution
 
