@@ -2,7 +2,7 @@
 
  - **Technician in systems development** and studying **computer engineering** at [UTFPR](https://www.utfpr.edu.br/) 📓
  - 4 years experience in gamedev 👾
- - Expertise in medium and high code languages ✨
+ - Expertise in medium and high coding ✨
 
 </br>
 
