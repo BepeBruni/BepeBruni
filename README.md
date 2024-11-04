@@ -1,7 +1,7 @@
 ## 😼 About Me
 
  - **Technician in systems development** and studying **computer engineering** at [UTFPR](https://www.utfpr.edu.br/) 📓
- - 4 years experience in gamedev 👾
+ - 4 years experience in development 👾
  - Expertise in medium and high coding ✨
 
 </br>
